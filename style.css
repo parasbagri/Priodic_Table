@@ -1,0 +1,61 @@
+ *{
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+ } 
+
+ body{
+   width: 100vw;
+   height: 100vh;
+   overflow-x: hidden;
+   overflow-y: auto;
+   /* display: flex;
+   flex-direction: column; */
+ }  
+ .container{
+   height: 100%;
+   width: 80%;
+   margin-left: 50px;
+    
+ } 
+  table{
+     border-spacing:1px ;
+  }
+
+ .padding{
+   background-color: rgb(214, 114, 114);
+   border: 2px solid black;
+   padding: 1px 15px;
+   font-size: larger;
+   font-weight: 600;
+   text-align: center;
+ }  
+ .yellow{
+  border: 2px solid black;
+  padding: 3px 15px;
+  font-size: larger;
+  font-weight: 600;
+  background-color: rgb(235, 235, 124);
+  text-align: center;
+ } 
+ .sky-blue{
+  border: 2px solid black;
+  padding: 3px 15px;
+  font-size: larger;
+  font-weight: 600;
+  background-color:rgb(91, 226, 226);
+  text-align: center; 
+ }
+.green{
+  border: 2px solid black;
+  padding: 3px 16.6px;
+  font-size: larger;
+  font-weight: 600;
+  text-align: center; 
+  background-color: rgb(147, 228, 147);
+   
+} 
+.second-table{
+   margin-left: 123px;
+   margin-top: 20px;
+}
